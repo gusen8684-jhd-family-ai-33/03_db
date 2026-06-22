@@ -18,6 +18,7 @@ from
     tbl_menu;
 
 
+
 # 카테고리 코드가 10인 메뉴의 평균 가격
 select
     avg(menu_price)
